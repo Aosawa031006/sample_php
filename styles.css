@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Hiragino Kaku Gothic ProN;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.contact {
+  width: 100%;
+}
+
+.contact h1 {
+  text-align: center;
+}
